@@ -1,13 +1,23 @@
 # 💫 Hi 👋, I'm Abhinav Singh Parihar
 **A passionate AI/ML Engineer || Developer || Python
 
-Email Me 👉 ✉️ **abhinavsingh2667@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
 
 - 🌱 **I’m currently learning:** About Ai/Ml and data science
 - 💬 **Ask me about:** Internships,Projects etc.
 - 📫 **How to reach me:** abhinavsingh2667@gmail.com
 - 😄 **Pronouns:** Abhinav
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+<img align="rightcorner" alt="coding" width="1000" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
+
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhinavSinghParihar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavsingh2667@gmail.com) 
